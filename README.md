@@ -1,6 +1,6 @@
 ### Hi, I’m Xiaonan Guo 👋
 
-M.Med. Student in Psychiatry, Zhejiang University School of Medicine (浙江大学医学院)
+M.Med. Student in Psychiatry, Zhejiang University School of Medicine
 
 **Research interests:**
 - Pathophysiology and clinical translation of bipolar disorder
